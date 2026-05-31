@@ -82,7 +82,7 @@ When architectural integrity checks fail during the 3-day sync window, the platf
 | - Pre-Paid Balances Forfeited Per MSA Section 3.4           |
 +-------------------------------------------------------------+
 | RECOVERY PATHWAY:                                           |
-| Account must undergo immediate manual migration to the     |
+| Account must undergo immediate manual migration to the      |
 | Corporate Enterprise Tier ($4,999/mo, Annual Commit)        |
 | to release the cryptographic hardware lock.                 |
 +-------------------------------------------------------------+
