@@ -26,7 +26,6 @@ To satisfy absolute sovereignty and data containment standards, Life OS prevents
 * **Community & Stewardship Nodes:** Completely isolated local databases utilizing unique cryptographic keys held solely by the traditional custodians or land managers.
 * **Sovereign Governance Layer:** Dedicated virtual networks structurally restricted to regional catchments to enforce localized data boundaries and protect indigenous intellectual property.
 
----
 
 ## 2. The 28/3 Intermittent Synchronization Protocol
 
@@ -36,13 +35,14 @@ To accommodate remote, off-grid, and rugged environments, Life OS edge-nodes run
 * Local Diagnostic Engines function independently without external infrastructure dependencies.
 * Zenith Stewardship metrics are cached on secure, immutable local solid-state storage.
 
+---
+
 ### 2.2 Mandatory Sync Window (3 Days)
 On or before the 28th operational day, the edge-node executes a localized handshake with the Earth-I Sovereign Cloud Network for a mandatory window of three (3) consecutive days (the "28/3 Sync Rule"). This synchronization window executes:
 * Complete cryptographic anchoring of accumulated stewardship telemetry.
 * AI-driven Catchment Audits and protective ecological modeling calculations.
 * Automated boundary validation and zero-trace data verification.
 
----
 
 ## 3. Spatial Gating & Network Telemetry Verification
 
