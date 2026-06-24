@@ -21,15 +21,47 @@ The Earth-I Life OS platform operates via physical edge-nodes deployed on-site. 
                                            v
 [ Sovereign Local Vault ]    <--- [ Automated 3-Day Uplink ]
 ```
+### 1.2 Community & Sovereign Tenant Logic
+To satisfy absolute sovereignty and data containment standards, Life OS prevents multi-party data cross-contamination at the hardware engine layer:
+* **Community & Stewardship Nodes:** Completely isolated local databases utilizing unique cryptographic keys held solely by the traditional custodians or land managers.
+* **Sovereign Governance Layer:** Dedicated virtual networks structurally restricted to regional catchments to enforce localized data boundaries and protect indigenous intellectual property.
 
 ---
 
-1.2 Community & Sovereign Tenant Logic
-To satisfy absolute sovereignty and data containment standards, Life OS prevents multi-party data cross-contamination at the hardware engine layer:Community & Stewardship Nodes: Completely isolated local databases utilizing unique cryptographic keys held solely by the traditional custodians or land managers.Sovereign Governance Layer: Dedicated virtual networks structurally restricted to regional catchments to enforce localized data boundaries and protect indigenous intellectual property.2. The 28/3 Intermittent Synchronization Protocol2.1 Offline Operational Window (28 Days)To accommodate remote, off-grid, and rugged environments, Life OS edge-nodes run completely offline for a maximum window of twenty-eight (28) consecutive days. During this offline phase:Telemetry is compressed and cryptographically signed locally.Local Diagnostic Engines function independently without external infrastructure dependencies.Zenith Stewardship metrics are cached on secure, immutable local solid-state storage.2.2 Mandatory Sync Window (3 Days)On or before the 28th operational day, the edge-node executes a localized handshake with the Earth-I Sovereign Cloud Network for a mandatory window of three (3) consecutive days (the "28/3 Sync Rule"). This synchronization window executes:Complete cryptographic anchoring of accumulated stewardship telemetry.AI-driven Catchment Audits and protective ecological modeling calculations.Automated boundary validation and zero-trace data verification.3. Spatial Gating & Network Telemetry Verification3.1 Catchment Integrity ProtectionTo maintain absolute geographic truth, the edge-node architecture maps and verifies localized telemetry boundaries during the 3-day sync window, registering:Static local routing tables and localized network interfaces.Hardware-level GNSS coordinates of connected environmental sensors.Simultaneous verification of localized steward keys.If the edge-node logs telemetry streams attempting to cross-pollinate with un-mapped or external data frameworks, the platform flags a Spatial Drift Anomaly to protect the local environment from data harvesting.3.2 Anti-Aggregation AuditsTo prevent external entities from covertly aggregating separate physical properties or mining regional land data, the 3-day sync upload executes an un-falsifiable telemetry cross-match. If data sub-streams within an upload profile indicate unauthorized external manipulation or data collection, the data packet sequence is automatically dropped and sealed to preserve localized sovereignty.4. Architectural Exceptions & Boundary EnforcementWhen structural integrity checks indicate external interference or drift during the 3-day sync window, the platform triggers hardcoded fail-safes to shield the node's data integrity:
+## 2. The 28/3 Intermittent Synchronization Protocol
+
+### 2.1 Offline Operational Window (28 Days)
+To accommodate remote, off-grid, and rugged environments, Life OS edge-nodes run completely offline for a maximum window of twenty-eight (28) consecutive days. During this offline phase:
+* Telemetry is compressed and cryptographically signed locally.
+* Local Diagnostic Engines function independently without external infrastructure dependencies.
+* Zenith Stewardship metrics are cached on secure, immutable local solid-state storage.
+
+### 2.2 Mandatory Sync Window (3 Days)
+On or before the 28th operational day, the edge-node executes a localized handshake with the Earth-I Sovereign Cloud Network for a mandatory window of three (3) consecutive days (the "28/3 Sync Rule"). This synchronization window executes:
+* Complete cryptographic anchoring of accumulated stewardship telemetry.
+* AI-driven Catchment Audits and protective ecological modeling calculations.
+* Automated boundary validation and zero-trace data verification.
 
 ---
+
+## 3. Spatial Gating & Network Telemetry Verification
+
+### 3.1 Catchment Integrity Protection
+To maintain absolute geographic truth, the edge-node architecture maps and verifies localized telemetry boundaries during the 3-day sync window, registering:
+* Static local routing tables and localized network interfaces.
+* Hardware-level GNSS coordinates of connected environmental sensors.
+* Simultaneous verification of localized steward keys.
+
+If the edge-node logs telemetry streams attempting to cross-pollinate with un-mapped or external data frameworks, the platform flags a *Spatial Drift Anomaly* to protect the local environment from data harvesting.
+
+### 3.2 Anti-Aggregation Audits
+To prevent external entities from covertly aggregating separate physical properties or mining regional land data, the 3-day sync upload executes an un-falsifiable telemetry cross-match. If data sub-streams within an upload profile indicate unauthorized external manipulation or data collection, the data packet sequence is automatically dropped and sealed to preserve localized sovereignty.
+
+---
+
+## 4. Architectural Exceptions & Boundary Enforcement
+When structural integrity checks indicate external interference or drift during the 3-day sync window, the platform triggers hardcoded fail-safes to shield the node's data integrity:
 <img width="1200" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/8771d202-5f35-461e-a232-903e31c46ee6" />
----
 
 
 ```
@@ -52,15 +84,31 @@ To satisfy absolute sovereignty and data containment standards, Life OS prevents
 +-------------------------------------------------------------|
 ```
 ---
+5. Industrial AI Layer & Zero-Training GuaranteeEarth-I guarantees absolute data privacy at the protocol layer. All computational loops involving the Catchment Audit, Zenith Reporting, and general Life OS diagnostics process analytical telemetry via stateless, ephemeral API loops.No Public Ingestion.
+   Operational logs, site geofencing data, and community infrastructure layouts are never utilized to train public Large Language Models (LLMs) or shared with third-party networks.
+   Permanent Traditional Ownership: Stewards and communities retain 100% intellectual property rights over all uploaded, synchronized, and processed data assets. Permanent zero-trace deletion protocols ensure data is cleared instantly upon request
+
+---
 
 
-5. Industrial AI Layer & Zero-Training Guarantee
-  
-Earth-I guarantees absolute data privacy at the protocol layer. All computational loops involving the Catchment Audit, Zenith Reporting, and general Life OS diagnostics process analytical telemetry via stateless, ephemeral API loops.   
+---
+Trademarks & Legal Notices
+| EARTH—I™ | Ethics Gate™ | Drift Guard™ | 100-Domain Alignment Matrix™ | Regeneration OS™ | Rhythm Engine™ | Return Metrics™ |
 
-No Public Ingestion: Operational logs, site geofencing data, and community infrastructure layouts are never utilized to train public Large Language Models (LLMs) or shared with third-party networks.   
+| BIOPHYSICAL OS™ | INDUSTRIAL OS™ | ATMOSPHERIC OS™ |
 
-Permanent Traditional Ownership: Stewards and communities retain 100% intellectual property rights over all uploaded, synchronized, and processed data assets. Permanent zero-trace deletion protocols ensure data is cleared instantly upon request.
+| are trademarks of Earth‑I Ltd | ABN 15 698 228 692 | Australia | All rights reserved 2026 |
 
 
 <img width="1200" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/f1ce641d-6002-4d82-8493-1781bc35a258" />
+
+
+
+
+
+
+
+
+
+
+
