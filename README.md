@@ -1,5 +1,5 @@
-# EI-BIOPHYSICAL-OS-WHITE-PAPER (Revised)
-<img width="1200" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/d02d279d-3bcc-474c-96f0-86d5e91ea031" />
+# BIOPHYSICAL OS™
+
 ---
 
 
@@ -61,7 +61,7 @@ To prevent external entities from covertly aggregating separate physical propert
 
 ## 4. Architectural Exceptions & Boundary Enforcement
 When structural integrity checks indicate external interference or drift during the 3-day sync window, the platform triggers hardcoded fail-safes to shield the node's data integrity:
-<img width="1200" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/8771d202-5f35-461e-a232-903e31c46ee6" />
+ src="https://github.com/user-attachments/assets/8771d202-5f35-461e-a232-903e31c46ee6" />
 
 
 ```
@@ -100,7 +100,7 @@ Trademarks & Legal Notices
 | are trademarks of Earth‑I Ltd | ABN 15 698 228 692 | Australia | All rights reserved 2026 |
 
 
-<img width="1200" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/f1ce641d-6002-4d82-8493-1781bc35a258" />
+ src="https://github.com/user-attachments/assets/f1ce641d-6002-4d82-8493-1781bc35a258" />
 
 
 
