@@ -2,18 +2,15 @@
 
 <img width="1200" height="69" alt="BIOSPHERE OS" src="https://github.com/user-attachments/assets/940e1a41-01d5-4805-929b-2cd91e538113" />
 
-
-
 ## Abstract
-This whitepaper specifies the technical architecture of the **Earth-I Life OS** platform across high-impact, asset-dense, and distributed operational environments (including regional community hubs, traditional catchments, and localized stewardship nodes). The system architecture relies on decentralized, sovereign edge-compute nodes running localized data diagnostics, utilizing an unyielding **28/3 Synchronization Protocol** and cryptographic **Sovereign Geofencing** to maintain data integrity, enforce single-site localization, and protect sacred ancestral and community data layers from external harvesting.
+This whitepaper specifies the technical architecture of the **Earth-I Biophysical OS** platform across high-impact, asset-dense, and distributed operational environments (including regional community hubs, traditional catchments, and localized stewardship nodes). The system architecture relies on decentralized, sovereign edge-compute nodes running localized data diagnostics, utilizing an unyielding **28/3 Synchronization Protocol** and cryptographic **Sovereign Geofencing** to maintain data integrity, enforce single-site localization, and protect sacred ancestral and community data layers from external harvesting.
 
 ---
 
 ## 1. Edge-Node Infrastructure & Data Isolation
 
 ### 1.1 Localized Edge Processing
-The Earth-I Life OS platform operates via physical edge-nodes deployed on-site. These nodes securely capture raw operational telemetry, local logs, asset updates, and environmental diagnostics directly from physical sensor arrays without relying on permanent external connectivity.
-
+The Earth-I Biophysical OS platform operates via physical edge-nodes deployed on-site. These nodes securely capture raw operational telemetry, local logs, asset updates, and environmental diagnostics directly from physical sensor arrays without relying on permanent external connectivity.
 
 ```
 [ Local Sensor Arrays ] ---> [ Earth-I Edge-Node Cache ] ---( 28 Days Offline )
@@ -84,9 +81,11 @@ When structural integrity checks indicate external interference or drift during 
 +-------------------------------------------------------------|
 ```
 
-5. Industrial AI Layer & Zero-Training GuaranteeEarth-I guarantees absolute data privacy at the protocol layer. All computational loops involving the Catchment Audit, Zenith Reporting, and general Life OS diagnostics process analytical telemetry via stateless, ephemeral API loops.No Public Ingestion.
+5. Industrial AI Layer & Zero-Training GuaranteeEarth-I guarantees absolute data privacy at the protocol layer. All computational loops involving the Catchment Audit, Zenith Reporting, and general
+   Biophysical OS diagnostics process analytical telemetry via stateless, ephemeral API loops.No Public Ingestion.
    Operational logs, site geofencing data, and community infrastructure layouts are never utilized to train public Large Language Models (LLMs) or shared with third-party networks.
-   Permanent Traditional Ownership: Stewards and communities retain 100% intellectual property rights over all uploaded, synchronized, and processed data assets. Permanent zero-trace deletion protocols ensure data is cleared instantly upon request
+   Permanent Traditional Ownership: Stewards and communities retain 100% intellectual property rights over all uploaded, synchronized, and processed data assets. Permanent zero-trace deletion protocols
+   ensure data is cleared instantly upon request
 
 <img width="1200" height="69" alt="BIOSPHERE OS" src="https://github.com/user-attachments/assets/940e1a41-01d5-4805-929b-2cd91e538113" />
 
