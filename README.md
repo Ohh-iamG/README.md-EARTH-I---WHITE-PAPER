@@ -72,7 +72,7 @@ When structural integrity checks indicate external interference or drift during 
 | SYSTEM IMPACT:                                              |
 | - Edge-Node External Synchronisation Paused                 |
 | - Local Data Cache Isolated & Encrypted                     |
-| - Local Sovereignty Protected Against External Inference   |
+| - Local Sovereignty Protected Against External Inference    |
 +-------------------------------------------------------------+
 | RECOVERY PATHWAY:                                           |
 | Node must undergo an on-site, localized cryptographic       |
