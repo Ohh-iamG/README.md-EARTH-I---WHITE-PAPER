@@ -89,14 +89,15 @@ When structural integrity checks indicate external interference or drift during 
 
 <img width="1200" height="69" alt="BIOSPHERE OS" src="https://github.com/user-attachments/assets/940e1a41-01d5-4805-929b-2cd91e538113" />
 
-Trademarks & Legal Notices
-| EARTH—I™ | Ethics Gate™ | Drift Guard™ | 100-Domain Alignment Matrix™ | Regeneration OS™ | Rhythm Engine™ | Return Metrics™ |
+## Trademarks & Legal Notices
 
-| BIOPHYSICAL OS™ | INDUSTRIAL OS™ | ATMOSPHERIC OS™ |
+| | | | |
+| :--- | :--- | :--- | :--- |
+| EARTH—I™ | Ethics Gate™ | Drift Guard™ | 100-Domain Alignment Matrix™ |
+| Regeneration OS™ | Rhythm Engine™ | Return Metrics™ | CORE OS™ |
+| BIOPHYSICAL OS™ | INDUSTRIAL OS™ | ATMOSPHERIC OS™ | CONSTELLATION OS™ |
 
-| are trademarks of Earth‑I Ltd | ABN 15 698 228 692 | Australia | All rights reserved 2026 |
+**are registered trademarks of Earth‑I Ltd** | Australia | All rights reserved 2026
 
-
- src="https://github.com/user-attachments/assets/f1ce641d-6002-4d82-8493-1781bc35a258" />
 
 <img width="1200" height="69" alt="BIOSPHERE OS" src="https://github.com/user-attachments/assets/940e1a41-01d5-4805-929b-2cd91e538113" />
